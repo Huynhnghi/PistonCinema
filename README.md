@@ -29,8 +29,10 @@
     </tr>
 </table>
 
-## Tiến độ dự án
+## 
 <img src="trangchu.jpg">
+## Tiến độ dự án
+
 - Thiết kế giao diện: Đã hoàn thành.
 - Thiết kế cơ sở dữ liệu: Đã hoàn thành.
 - Xây dựng chức năng trang web: Đã hoàn thành.
