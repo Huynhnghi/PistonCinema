@@ -23,14 +23,14 @@
         <td>Email</td>
     </tr>
     <tr>
-        <td>2001215685</td>
+        <td>2001215978</td>
         <td>Nguyễn Thị Huỳnh Nghi</td>
         <td>huynhnghi6809@gmail.com</td>
     </tr>
 </table>
 
 ## Tiến độ dự án
-
+<img src="trangchu.jpg">
 - Thiết kế giao diện: Đã hoàn thành.
 - Thiết kế cơ sở dữ liệu: Đã hoàn thành.
 - Xây dựng chức năng trang web: Đã hoàn thành.
